@@ -1,5 +1,5 @@
-Colorado Build v1.0 credits list
-last updated 3/20/2023
+Colorado Build v2 credits list
+last updated 5/25/2023
 
 -Music-
 many BRSTMs from smashcustommusic.net
@@ -30,5 +30,6 @@ Mario texture templates by Dappamane (for Doop's Mario)
 Classic Marth CSProject template by FWCrash (for Polear's skin's render)
 Mega Lucario CSProject template by hulkalex (for Valnoir's skin's render)
 Trans Knuckles skin by ???
+Snake Brawl pose CSProject files by VirtualBeef (for Z-stick's skin's render)
 
 anything changed but not mentioned here is by Z-Stick
