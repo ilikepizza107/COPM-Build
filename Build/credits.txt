@@ -1,19 +1,21 @@
 Colorado Build v2 credits list
-last updated 5/25/2023
+last updated 6/6/2023
 
 -Music-
 many BRSTMs from smashcustommusic.net
 others by Z-Stick, rose cat, Jr. Chaffles, and Arcana
 
 -Menus-
+code edits by ilikepizza107
+Sky Tears CSS by Nezha
 menu text assets by Tedward
 clear "ready to fight" banner from the Undertow 2022 build
 PMBR stage stats from the Undertow 2022 build
-code edits by ilikepizza107
+2023 Recomended Stagelist stats from the 2023 Recomended Stagelist build
 
 -Stages-
 Swamp Battlefield by Kirbeast
-Original Colorado Stadium by Blues (some of it's textures are edited from on the new Colorado Stadium)
+Original Colorado Stadium by Blues (some of it's textures are edited and used on the new Colorado Stadium)
 AZ stage skins and menu assets by FingerStripes from the FingyBuild
 various stage skins and menu assets from the 2023 Recomended Stagelist build
 
@@ -24,12 +26,13 @@ FemboyRoy's Marth by ilikepizza107 (with credit to tyle for Brawl Marth CSProjec
 Arcana's ZSS by ilikepizza107
 Maka's ICs by influenza (with credit to ilikepizza107 for tech help)
 Maka's Lucario by Maka
+Shinjicarly's Mewtwo by marcelbruer
+Trans Knuckles skin by DHS7
 Sunglasses Squritle by Mazux and Mewtwo2000, Squrtile texture templates by Dappamane, Sunglasses Squirtle CSP Porject template by hulkalex (for Whoratio's Squirtle skin)
 Classic Wario over Biker Wario bone fix by MarioDox, Wario texture templates by Dappamane (for Jr. Chaffles' Wario skin)
 Mario texture templates by Dappamane (for Doop's Mario)
 Classic Marth CSProject template by FWCrash (for Polear's skin's render)
 Mega Lucario CSProject template by hulkalex (for Valnoir's skin's render)
-Trans Knuckles skin by ???
 Snake Brawl pose CSProject files by VirtualBeef (for Z-stick's skin's render)
 
 anything changed but not mentioned here is by Z-Stick
