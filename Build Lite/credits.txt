@@ -1,5 +1,5 @@
 Colorado Build v2 credits list
-last updated 6/29/2023
+last updated 7/6/2023
 
 -Music-
 many BRSTMs from smashcustommusic.net
@@ -29,11 +29,13 @@ Arcana's ZSS by ilikepizza107
 Maka's ICs by influenza (with credit to ilikepizza107 for tech help)
 Maka's Lucario by Maka
 Shinjicarly's Mewtwo by marcelbruer
-Lily Vaporeon's skins by ???
+Lily Vaporeon's skins by Lily Vaporeon, Stutter Step Steven, and Midnight Blue
 
 Sunglasses Squritle by Mazux and Mewtwo2000, Squrtile texture templates by Dappamane, Sunglasses Squirtle CSP Porject template by hulkalex (for Whoratio's Squirtle skin)
-Classic Wario over Biker Wario bone fix by MarioDox, Wario texture templates by Dappamane (for Jr. Chaffles' Wario skin)
+Classic Wario over Biker Wario bone fix by MarioDox, Wario texture templates by Dappamane (for Jr. Chaffles' and Z-Stick's Wario skins)
+Wario texture templates by Dappamane (for Jr. Chaffles' and Z-Stick's Wario skins)
 Mario texture templates by Dappamane (for Doop's Mario)
+Brawl Plumbler Wario pose CSProject template by tyleto (for Z-Stick's Wario skin)
 Classic Marth CSProject template by FWCrash (for Polear's skin's render)
 Mega Lucario CSProject template by hulkalex (for Valnoir's skin's render)
 Snake Brawl pose CSProject files by VirtualBeef (for Z-stick's skin's render)
