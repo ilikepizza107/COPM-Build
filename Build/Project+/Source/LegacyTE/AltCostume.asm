@@ -10,6 +10,7 @@ HOOK @ $8068480C
 	li r12, -0x21		# \ Load a filter FFFF FFDF to clear out 20 (GC/CC R)
 	and r0, r0, r12		# /
 }
+int 0x80000 @ $806A080C	# Make Nunchucks use (-) instead of C
 
 ###################################################################################################################
 [Legacy TE] Hold Z for AltZ Characters, R for AltR Characters V3 [PyotrLuzhin, codes, ASF1nk, Yohan1044, DukeItOut]

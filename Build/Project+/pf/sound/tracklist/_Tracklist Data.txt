@@ -238,7 +238,7 @@ Bob-Omb_Battlefield.tlst - 1 track
 	Frequency: 40
 
 ################
-Bowsers_Castle.tlst - 13 tracks
+Bowsers_Castle.tlst - 14 tracks
 
 	Castle (Super Mario World)
 	Super Mario/Castle [SMW].brstm
@@ -301,6 +301,10 @@ Bowsers_Castle.tlst - 13 tracks
 	Castle / Fortress Boss (SMW / SMB3)
 	A06.brstm (0x2719)
 	Frequency: 40
+
+	Airship Theme (Super Mario Bros. 3)
+	A05.brstm (0x2718)
+	Frequency: 10
 
 	Battle with Bowser (Super Mario All-Stars)
 	Super Mario/Battle with Bowser (SMAS).brstm
@@ -629,7 +633,7 @@ Chaos_Angel.tlst - 9 tracks
 	Frequency: 40
 
 ################
-Chemical_Plant_Zone.tlst - 6 tracks
+Chemical_Plant_Zone.tlst - 7 tracks
 
 	Chemical Plant Zone
 	Sonic/Chemical Plant Zone.brstm
@@ -643,6 +647,11 @@ Chemical_Plant_Zone.tlst - 6 tracks
 	Spring Yard Zone
 	Sonic/Spring Yard Zone.brstm
 	Volume: 80
+	Frequency: 40
+
+	Flying Battery Zone
+	Sonic/Flying Battery Zone.brstm
+	Volume: 50
 	Frequency: 40
 
 	His World
@@ -752,6 +761,13 @@ Corneria.tlst - 5 tracks
 
 	Area 6
 	G04.brstm (0x2766)
+	Frequency: 40
+
+################
+Corneria_SNES.tlst - 1 track
+
+	Corneria (Star Fox)
+	G02.brstm (0x2764)
 	Frequency: 40
 
 ################
@@ -1861,12 +1877,17 @@ Green_Hill_Zone.tlst - 20 tracks
 	Song delay: 200
 
 ################
-Green_Hill_Zone_Brawl.tlst - 5 tracks
+Green_Hill_Zone_Brawl.tlst - 6 tracks
 
 	Green Hill Zone
 	U01.brstm (0x27F2)
 	Frequency: 40
 	Song delay: 84
+
+	Green Hill Zone (Generations ver.)
+	Sonic/Green Hill Zone (SG).brstm
+	Volume: 80
+	Frequency: 40
 
 	Emerald Hill Zone
 	U03.brstm (0x27F4)
@@ -2100,7 +2121,7 @@ Jungle_Japes.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Kakariko.tlst - 7 tracks
+Kakariko.tlst - 8 tracks
 
 	Hyrule Field
 	C08.brstm (0x273A)
@@ -2129,6 +2150,10 @@ Kakariko.tlst - 7 tracks
 
 	Termina Field
 	C14.brstm (0x2740)
+	Frequency: 40
+
+	Village of the Blue Maiden
+	C12.brstm (0x273E)
 	Frequency: 40
 
 	The Prince's Adventure (For the Frog the Bell Tolls)
@@ -3863,7 +3888,12 @@ Results.tlst - 51 tracks
 	Frequency: 40
 
 ################
-Rocket_Hideout.tlst - 4 tracks
+Rocket_Hideout.tlst - 5 tracks
+
+	Battle! Mewtwo (Pokémon Stadium)
+	Pokemon/Battle! Mewtwo [Stadium].brstm
+	Volume: 65
+	Frequency: 40
 
 	Battle! Team Rocket
 	Pokemon/Battle! Team Rocket.brstm
@@ -4417,7 +4447,7 @@ Smashville_Tropical.tlst - 6 tracks
 	Frequency: 40
 
 ################
-Space_Colony_Ark.tlst - 7 tracks
+Space_Colony_Ark.tlst - 8 tracks
 
 	Live and Learn
 	U09.brstm (0x27FA)
@@ -4434,6 +4464,11 @@ Space_Colony_Ark.tlst - 7 tracks
 	Chemical Plant Zone
 	Sonic/Chemical Plant Zone.brstm
 	Volume: 80
+	Frequency: 40
+
+	Flying Battery Zone
+	Sonic/Flying Battery Zone.brstm
+	Volume: 50
 	Frequency: 40
 
 	Ocean Base
@@ -4578,7 +4613,7 @@ Temple.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Temple_of_Time.tlst - 8 tracks
+Temple_of_Time.tlst - 10 tracks
 
 	Ganondorf Battle (Twilight Princess)
 	Zelda/Ganondorf Battle.brstm
@@ -4613,6 +4648,14 @@ Temple_of_Time.tlst - 8 tracks
 	Great Temple / Temple
 	C03.brstm (0x2735)
 	Frequency: 40
+
+	Title (The Legend of Zelda)
+	C01.brstm (0x2733)
+	Frequency: 10
+
+	Main Theme (The Legend of Zelda)
+	C02.brstm (0x2734)
+	Frequency: 10
 
 ################
 Temple_of_Time_OoT.tlst - 8 tracks
